@@ -19,5 +19,23 @@ public class Assignment2 {
 		driver.findElement(By.id("signInBtn")).click();
 
 	}
+	public void newTest() {
+		System.out.println(";pikla");
+		System.out.println("sudiii");
+		System.out.println("ds;koola");
+		System.out.println("tamall");
+	}
+	public void newTest1() {
+		System.out.println(" ghibhi pikla");
+		System.out.println("gaadu sudiii");
+		System.out.println("ds;koola");
+		System.out.println("tamall");
+	}
+	public void newTest2() {
+		System.out.println("tath pikla");
+		System.out.println("sudiii");
+		System.out.println("ds2;koola");
+		System.out.println("tamall");
+	}
 
 }
