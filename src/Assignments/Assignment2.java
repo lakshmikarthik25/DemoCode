@@ -37,5 +37,23 @@ public class Assignment2 {
 		System.out.println("ds2;koola");
 		System.out.println("tamall");
 	}
+	public void newTest3() {
+		System.out.println("tath pikla");
+		System.out.println("sudiii");
+		System.out.println("ds2;koola");
+		System.out.println("tamall");
+	}
+	public void newTest4() {
+		System.out.println("tath pikla");
+		System.out.println("sudiii");
+		System.out.println("ds2;koola");
+		System.out.println("tamall");
+	}
+	public void newTest5() {
+		System.out.println("tath pikla");
+		System.out.println("sudiii");
+		System.out.println("ds2;koola");
+		System.out.println("tamall");
+	}
 
 }
